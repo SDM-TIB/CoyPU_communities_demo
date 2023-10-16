@@ -2,4 +2,5 @@ pandas
 ipycytoscape
 ipywidgets
 voila
+voila-material
 IPython
