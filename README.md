@@ -2,4 +2,7 @@
  
 ## Execute
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SDM-TIB/CoyPu_SemEP/HEAD?urlpath=voila%2Frender%2FVisualizing_SemEP_Cluster.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SDM-TIB/CoyPU_communities_demo/HEAD?urlpath=voila%2Frender%2FCoyPU_communities.ipynb)
+
+## Execute 2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SDM-TIB/CoyPU_communities_demo/HEAD?urlpath=voila%2Frender%2FVisualizing_Cluster%2FVisualizing_SemEP_Cluster.ipynb)
