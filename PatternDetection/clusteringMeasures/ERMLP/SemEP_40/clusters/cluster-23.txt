@@ -1,0 +1,11 @@
+country:CHL	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:SYC	Gross national expenditure (current US$)	low	1.0000
+country:BGR	Gross national expenditure (current US$)	medium	1.0000
+country:TUR	Gross national expenditure (current US$)	high	1.0000
+country:GRC	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:RUS	Gross national expenditure (current US$)	high	1.0000
+country:PHL	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:MEX	Gross national expenditure (current US$)	high	1.0000
+country:GTM	Gross national expenditure (current US$)	medium	1.0000
+country:EGY	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:KOR	Gross national expenditure (current US$)	high	1.0000

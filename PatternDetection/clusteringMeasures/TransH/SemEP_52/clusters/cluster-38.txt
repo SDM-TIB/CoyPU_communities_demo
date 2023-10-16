@@ -1,0 +1,20 @@
+country:SMR	Population growth (annual %)	mediumLow	1.0000
+country:ATG	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ATG	GDP (current US$)	low	1.0000
+country:ATG	GDP per capita (current LCU)	mediumLow	1.0000
+country:ATG	Population growth (annual %)	medium	1.0000
+country:MAC	GDP (current US$)	medium	1.0000
+country:MAC	GDP per capita (current LCU)	mediumHigh	1.0000
+country:MAC	Population growth (annual %)	mediumHigh	1.0000
+country:DMA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:SXM	Population growth (annual %)	mediumHigh	1.0000
+country:NCL	Population growth (annual %)	mediumLow	1.0000
+country:FSM	Industry (including construction) value added (% of GDP)	low	1.0000
+country:FSM	GDP (current US$)	low	1.0000
+country:FSM	GDP per capita (current LCU)	low	1.0000
+country:FSM	Population growth (annual %)	medium	1.0000
+country:GRD	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LCA	GDP (current US$)	low	1.0000
+country:BRN	Industry (including construction) value added (% of GDP)	high	1.0000
+country:BRN	GDP per capita (current LCU)	mediumLow	1.0000
+country:BRN	Population growth (annual %)	medium	1.0000

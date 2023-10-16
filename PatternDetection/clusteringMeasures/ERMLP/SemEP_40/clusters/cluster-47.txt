@@ -1,0 +1,2 @@
+country:USA	GNI per capita (current LCU)	medium	1.0000
+country:GBR	GNI per capita (current LCU)	mediumLow	1.0000

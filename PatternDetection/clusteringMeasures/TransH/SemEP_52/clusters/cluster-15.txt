@@ -1,0 +1,6 @@
+country:MHL	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:MUS	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:BMU	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:ISL	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:WSM	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:BLZ	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000

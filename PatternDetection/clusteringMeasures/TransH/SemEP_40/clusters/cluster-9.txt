@@ -1,0 +1,5 @@
+country:TCA	GNI per capita (current LCU)	mediumLow	1.0000
+country:MHL	GNI per capita (current LCU)	low	1.0000
+country:VUT	GNI per capita (current LCU)	mediumHigh	1.0000
+country:KNA	GNI per capita (current LCU)	mediumLow	1.0000
+country:HUN	GNI per capita (current LCU)	high	1.0000

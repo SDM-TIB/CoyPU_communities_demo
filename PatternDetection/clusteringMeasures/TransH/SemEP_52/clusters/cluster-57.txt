@@ -1,0 +1,10 @@
+country:LTU	Gross national expenditure (current US$)	medium	1.0000
+country:MAC	Gross national expenditure (current US$)	mediumLow	1.0000
+country:URY	Gross national expenditure (current US$)	medium	1.0000
+country:CHE	Gross national expenditure (current US$)	high	1.0000
+country:IND	Gross national expenditure (current US$)	high	1.0000
+country:LVA	Gross national expenditure (current US$)	mediumLow	1.0000
+country:SAU	Gross national expenditure (current US$)	high	1.0000
+country:ROU	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:MYS	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:BRN	Gross national expenditure (current US$)	low	1.0000

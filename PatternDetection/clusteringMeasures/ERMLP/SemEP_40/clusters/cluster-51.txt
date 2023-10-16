@@ -1,0 +1,40 @@
+country:WSM	Industry (including construction) value added (% of GDP)	low	1.0000
+country:WSM	GDP (current US$)	low	1.0000
+country:WSM	GDP per capita (current LCU)	low	1.0000
+country:WSM	Population growth (annual %)	medium	1.0000
+country:NCL	Population growth (annual %)	mediumLow	1.0000
+country:BHS	Industry (including construction) value added (% of GDP)	low	1.0000
+country:BHS	GDP (current US$)	mediumLow	1.0000
+country:BHS	GDP per capita (current LCU)	mediumLow	1.0000
+country:BHS	Population growth (annual %)	medium	1.0000
+country:VCT	Industry (including construction) value added (% of GDP)	low	1.0000
+country:TCA	GDP (current US$)	low	1.0000
+country:SYC	Industry (including construction) value added (% of GDP)	low	1.0000
+country:SYC	GDP (current US$)	low	1.0000
+country:SYC	GDP per capita (current LCU)	mediumHigh	1.0000
+country:SYC	Population growth (annual %)	medium	1.0000
+country:MUS	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:MUS	GDP (current US$)	mediumLow	1.0000
+country:MUS	GDP per capita (current LCU)	mediumHigh	1.0000
+country:MUS	Population growth (annual %)	low	1.0000
+country:MYS	Industry (including construction) value added (% of GDP)	high	1.0000
+country:MYS	GDP (current US$)	mediumHigh	1.0000
+country:MYS	GDP per capita (current LCU)	mediumLow	1.0000
+country:MYS	Population growth (annual %)	mediumHigh	1.0000
+country:GUM	Population growth (annual %)	medium	1.0000
+country:SVN	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:SVN	GDP (current US$)	medium	1.0000
+country:SVN	GDP per capita (current LCU)	mediumLow	1.0000
+country:SVN	Population growth (annual %)	mediumLow	1.0000
+country:MLT	GDP (current US$)	mediumLow	1.0000
+country:AND	GDP (current US$)	low	1.0000
+country:AND	GDP per capita (current LCU)	mediumLow	1.0000
+country:AND	Population growth (annual %)	low	1.0000
+country:FRA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:FRA	GDP (current US$)	high	1.0000
+country:FRA	GDP per capita (current LCU)	mediumLow	1.0000
+country:FRA	Population growth (annual %)	mediumLow	1.0000
+country:GRC	Industry (including construction) value added (% of GDP)	low	1.0000
+country:GRC	GDP (current US$)	mediumHigh	1.0000
+country:GRC	GDP per capita (current LCU)	low	1.0000
+country:GRC	Population growth (annual %)	low	1.0000

@@ -1,0 +1,2 @@
+country:GBR	Gross national expenditure (current US$)	high	1.0000
+country:EST	Gross national expenditure (current US$)	mediumLow	1.0000

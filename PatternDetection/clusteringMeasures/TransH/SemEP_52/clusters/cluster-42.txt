@@ -1,0 +1,7 @@
+country:MUS	GNI per capita (current LCU)	mediumHigh	1.0000
+country:MHL	GNI per capita (current LCU)	low	1.0000
+country:BMU	GNI per capita (current LCU)	medium	1.0000
+country:ISL	GNI per capita (current LCU)	high	1.0000
+country:HUN	GNI per capita (current LCU)	high	1.0000
+country:BLZ	GNI per capita (current LCU)	low	1.0000
+country:WSM	GNI per capita (current LCU)	low	1.0000

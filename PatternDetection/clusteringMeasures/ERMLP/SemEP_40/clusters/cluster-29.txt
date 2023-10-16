@@ -1,0 +1,2 @@
+country:CAN	Gross national expenditure (current US$)	high	1.0000
+country:LTU	Gross national expenditure (current US$)	medium	1.0000

@@ -1,0 +1,90 @@
+country:USA	GDP (current US$)	high	1.0000
+country:USA	GDP per capita (current LCU)	medium	1.0000
+country:USA	Population growth (annual %)	low	1.0000
+country:NAM	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:NAM	GDP (current US$)	mediumLow	1.0000
+country:NAM	GDP per capita (current LCU)	medium	1.0000
+country:NAM	Population growth (annual %)	mediumHigh	1.0000
+country:PYF	Population growth (annual %)	mediumLow	1.0000
+country:FRA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:FRA	GDP (current US$)	high	1.0000
+country:FRA	GDP per capita (current LCU)	mediumLow	1.0000
+country:FRA	Population growth (annual %)	mediumLow	1.0000
+country:AUS	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:AUS	GDP (current US$)	high	1.0000
+country:AUS	GDP per capita (current LCU)	medium	1.0000
+country:AUS	Population growth (annual %)	mediumLow	1.0000
+country:CHN	Industry (including construction) value added (% of GDP)	high	1.0000
+country:CHN	GDP (current US$)	high	1.0000
+country:CHN	GDP per capita (current LCU)	medium	1.0000
+country:CHN	Population growth (annual %)	low	1.0000
+country:CHN	Investment in water and sanitation with private participation (current US$)	mediumHigh	1.0000
+country:CHN	Public private partnerships investment in water and sanitation (current US$)	mediumHigh	1.0000
+country:CHE	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:CHE	GDP (current US$)	high	1.0000
+country:CHE	GDP per capita (current LCU)	medium	1.0000
+country:CHE	Population growth (annual %)	medium	1.0000
+country:ROU	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:ROU	GDP (current US$)	mediumHigh	1.0000
+country:ROU	GDP per capita (current LCU)	mediumLow	1.0000
+country:ROU	Population growth (annual %)	low	1.0000
+country:PAN	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:PAN	GDP (current US$)	medium	1.0000
+country:PAN	GDP per capita (current LCU)	low	1.0000
+country:PAN	Population growth (annual %)	mediumHigh	1.0000
+country:HKG	GDP (current US$)	mediumHigh	1.0000
+country:HKG	GDP per capita (current LCU)	mediumHigh	1.0000
+country:HKG	Population growth (annual %)	low	1.0000
+country:GRC	Industry (including construction) value added (% of GDP)	low	1.0000
+country:GRC	GDP (current US$)	mediumHigh	1.0000
+country:GRC	GDP per capita (current LCU)	low	1.0000
+country:GRC	Population growth (annual %)	low	1.0000
+country:BGR	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:BGR	GDP (current US$)	mediumHigh	1.0000
+country:BGR	GDP per capita (current LCU)	low	1.0000
+country:BGR	Population growth (annual %)	low	1.0000
+country:JPN	GDP (current US$)	high	1.0000
+country:JPN	GDP per capita (current LCU)	high	1.0000
+country:JPN	Population growth (annual %)	low	1.0000
+country:HRV	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:HRV	GDP per capita (current LCU)	medium	1.0000
+country:HRV	Population growth (annual %)	low	1.0000
+country:ATG	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ATG	GDP (current US$)	low	1.0000
+country:ATG	GDP per capita (current LCU)	mediumLow	1.0000
+country:ATG	Population growth (annual %)	medium	1.0000
+country:NZL	GDP (current US$)	mediumHigh	1.0000
+country:NZL	GDP per capita (current LCU)	medium	1.0000
+country:NZL	Population growth (annual %)	mediumLow	1.0000
+country:IND	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:IND	GDP per capita (current LCU)	medium	1.0000
+country:IND	Population growth (annual %)	medium	1.0000
+country:IND	Investment in water and sanitation with private participation (current US$)	medium	1.0000
+country:SXM	Population growth (annual %)	mediumHigh	1.0000
+country:CAN	GDP (current US$)	high	1.0000
+country:CAN	GDP per capita (current LCU)	medium	1.0000
+country:CAN	Population growth (annual %)	mediumLow	1.0000
+country:SVK	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:SVK	GDP (current US$)	mediumHigh	1.0000
+country:SVK	GDP per capita (current LCU)	low	1.0000
+country:SVK	Population growth (annual %)	low	1.0000
+country:AND	GDP (current US$)	low	1.0000
+country:AND	Population growth (annual %)	low	1.0000
+country:LBR	GDP (current US$)	low	1.0000
+country:LBR	GDP per capita (current LCU)	low	1.0000
+country:LBR	Population growth (annual %)	high	1.0000
+country:BTN	Population growth (annual %)	medium	1.0000
+country:BWA	GDP per capita (current LCU)	medium	1.0000
+country:BWA	Population growth (annual %)	mediumHigh	1.0000
+country:BWA	Public private partnerships investment in water and sanitation (current US$)	mediumLow	1.0000
+country:FSM	Industry (including construction) value added (% of GDP)	low	1.0000
+country:FSM	GDP (current US$)	low	1.0000
+country:FSM	GDP per capita (current LCU)	low	1.0000
+country:FSM	Population growth (annual %)	medium	1.0000
+country:BRN	GDP (current US$)	mediumLow	1.0000
+country:BRN	GDP per capita (current LCU)	mediumLow	1.0000
+country:BRN	Population growth (annual %)	medium	1.0000
+country:GRD	Industry (including construction) value added (% of GDP)	low	1.0000
+country:GRD	GDP (current US$)	low	1.0000
+country:GRD	GDP per capita (current LCU)	mediumLow	1.0000
+country:GRD	Population growth (annual %)	mediumLow	1.0000

@@ -1,0 +1,24 @@
+country:FRO	Population growth (annual %)	mediumLow	1.0000
+country:GIB	Population growth (annual %)	low	1.0000
+country:KNA	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:KNA	GDP (current US$)	low	1.0000
+country:KNA	GDP per capita (current LCU)	mediumLow	1.0000
+country:KNA	Population growth (annual %)	mediumLow	1.0000
+country:VCT	Industry (including construction) value added (% of GDP)	low	1.0000
+country:VCT	GDP (current US$)	low	1.0000
+country:VCT	GDP per capita (current LCU)	low	1.0000
+country:VCT	Population growth (annual %)	mediumLow	1.0000
+country:TCA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:TCA	GDP (current US$)	low	1.0000
+country:TCA	GDP per capita (current LCU)	mediumLow	1.0000
+country:TCA	Population growth (annual %)	mediumHigh	1.0000
+country:HUN	GDP (current US$)	mediumHigh	1.0000
+country:HUN	GDP per capita (current LCU)	high	1.0000
+country:HUN	Population growth (annual %)	low	1.0000
+country:SYC	Industry (including construction) value added (% of GDP)	low	1.0000
+country:SYC	GDP (current US$)	low	1.0000
+country:SYC	GDP per capita (current LCU)	mediumHigh	1.0000
+country:SYC	Population growth (annual %)	medium	1.0000
+country:BLZ	GDP (current US$)	low	1.0000
+country:BLZ	GDP per capita (current LCU)	low	1.0000
+country:BLZ	Population growth (annual %)	mediumHigh	1.0000

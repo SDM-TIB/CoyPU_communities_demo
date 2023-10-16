@@ -1,0 +1,7 @@
+country:CHE	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BEL	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:CZE	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:PRT	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:CHN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:ROU	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:HKG	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000

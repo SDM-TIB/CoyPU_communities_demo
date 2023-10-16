@@ -1,0 +1,2 @@
+country:CAN	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:LTU	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000

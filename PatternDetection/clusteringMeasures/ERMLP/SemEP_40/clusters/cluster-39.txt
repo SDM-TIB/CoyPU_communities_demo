@@ -1,0 +1,4 @@
+country:FIN	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:CHN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:HKG	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:BRB	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000

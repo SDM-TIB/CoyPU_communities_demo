@@ -1,0 +1,18 @@
+country:BRB	GDP (current US$)	low	1.0000
+country:BRB	GDP per capita (current LCU)	mediumLow	1.0000
+country:BRB	Population growth (annual %)	low	1.0000
+country:PRT	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:PRT	GDP (current US$)	mediumHigh	1.0000
+country:PRT	GDP per capita (current LCU)	low	1.0000
+country:PRT	Population growth (annual %)	low	1.0000
+country:CYP	Industry (including construction) value added (% of GDP)	low	1.0000
+country:CYP	GDP (current US$)	medium	1.0000
+country:CYP	GDP per capita (current LCU)	mediumLow	1.0000
+country:CYP	Population growth (annual %)	medium	1.0000
+country:ISL	GDP (current US$)	medium	1.0000
+country:ISL	GDP per capita (current LCU)	high	1.0000
+country:ISL	Population growth (annual %)	mediumHigh	1.0000
+country:WSM	Industry (including construction) value added (% of GDP)	low	1.0000
+country:WSM	GDP (current US$)	low	1.0000
+country:WSM	GDP per capita (current LCU)	low	1.0000
+country:WSM	Population growth (annual %)	medium	1.0000

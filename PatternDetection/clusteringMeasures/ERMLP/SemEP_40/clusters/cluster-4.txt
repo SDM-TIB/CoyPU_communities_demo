@@ -1,0 +1,2 @@
+country:SVK	Gross national expenditure (current US$)	medium	1.0000
+country:AUS	Gross national expenditure (current US$)	high	1.0000

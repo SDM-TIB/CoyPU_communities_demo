@@ -1,0 +1,6 @@
+country:BRB	GNI per capita (current LCU)	mediumLow	1.0000
+country:CAN	GNI per capita (current LCU)	medium	1.0000
+country:PRT	GNI per capita (current LCU)	low	1.0000
+country:DMA	GNI per capita (current LCU)	low	1.0000
+country:SGP	GNI per capita (current LCU)	medium	1.0000
+country:LCA	GNI per capita (current LCU)	mediumLow	1.0000

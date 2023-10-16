@@ -1,0 +1,2 @@
+country:ITA	Gross national expenditure (current US$)	high	1.0000
+country:PRT	Gross national expenditure (current US$)	mediumHigh	1.0000

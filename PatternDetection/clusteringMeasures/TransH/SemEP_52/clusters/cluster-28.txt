@@ -1,0 +1,9 @@
+country:SVK	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:MYS	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:LVA	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:SAU	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:LTU	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:URY	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:SGP	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:ARE	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:LBR	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000

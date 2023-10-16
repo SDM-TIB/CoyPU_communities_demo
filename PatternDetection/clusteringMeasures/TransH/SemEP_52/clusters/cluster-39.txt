@@ -1,0 +1,13 @@
+country:PYF	Population growth (annual %)	mediumLow	1.0000
+country:VUT	GDP (current US$)	low	1.0000
+country:VUT	GDP per capita (current LCU)	mediumHigh	1.0000
+country:VUT	Population growth (annual %)	high	1.0000
+country:DMA	GDP (current US$)	low	1.0000
+country:DMA	GDP per capita (current LCU)	low	1.0000
+country:DMA	Population growth (annual %)	mediumLow	1.0000
+country:GRD	GDP (current US$)	low	1.0000
+country:GRD	GDP per capita (current LCU)	mediumLow	1.0000
+country:GRD	Population growth (annual %)	mediumLow	1.0000
+country:LCA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LCA	GDP per capita (current LCU)	mediumLow	1.0000
+country:LCA	Population growth (annual %)	mediumLow	1.0000

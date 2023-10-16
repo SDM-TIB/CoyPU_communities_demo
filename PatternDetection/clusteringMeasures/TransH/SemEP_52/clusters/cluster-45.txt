@@ -1,0 +1,10 @@
+country:USA	GNI per capita (current LCU)	medium	1.0000
+country:POL	GNI per capita (current LCU)	medium	1.0000
+country:FRA	GNI per capita (current LCU)	mediumLow	1.0000
+country:AUS	GNI per capita (current LCU)	medium	1.0000
+country:JPN	GNI per capita (current LCU)	high	1.0000
+country:PAN	GNI per capita (current LCU)	low	1.0000
+country:GRC	GNI per capita (current LCU)	low	1.0000
+country:BGR	GNI per capita (current LCU)	low	1.0000
+country:NZL	GNI per capita (current LCU)	medium	1.0000
+country:HRV	GNI per capita (current LCU)	medium	1.0000

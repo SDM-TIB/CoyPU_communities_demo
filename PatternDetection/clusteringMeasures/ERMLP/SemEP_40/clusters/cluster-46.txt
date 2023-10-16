@@ -1,0 +1,8 @@
+country:VIR	Population growth (annual %)	low	1.0000
+country:BRB	GDP (current US$)	low	1.0000
+country:BRB	GDP per capita (current LCU)	mediumLow	1.0000
+country:BRB	Population growth (annual %)	low	1.0000
+country:ABW	Population growth (annual %)	mediumLow	1.0000
+country:MHL	GDP (current US$)	low	1.0000
+country:MHL	GDP per capita (current LCU)	low	1.0000
+country:MHL	Population growth (annual %)	medium	1.0000

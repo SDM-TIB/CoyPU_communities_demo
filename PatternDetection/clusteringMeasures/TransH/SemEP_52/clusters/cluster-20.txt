@@ -1,0 +1,4 @@
+country:ESP	GNI per capita (current LCU)	mediumLow	1.0000
+country:DNK	GNI per capita (current LCU)	mediumHigh	1.0000
+country:SWE	GNI per capita (current LCU)	mediumHigh	1.0000
+country:NLD	GNI per capita (current LCU)	mediumLow	1.0000

@@ -1,0 +1,10 @@
+country:ISL	Gross national expenditure (current US$)	mediumLow	1.0000
+country:BMU	Gross national expenditure (current US$)	low	1.0000
+country:IRL	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:POL	Gross national expenditure (current US$)	high	1.0000
+country:MLT	Gross national expenditure (current US$)	low	1.0000
+country:BHS	Gross national expenditure (current US$)	low	1.0000
+country:MUS	Gross national expenditure (current US$)	low	1.0000
+country:MYS	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:SGP	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:CZE	Gross national expenditure (current US$)	mediumHigh	1.0000

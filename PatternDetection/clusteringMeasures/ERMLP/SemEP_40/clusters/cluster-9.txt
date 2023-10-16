@@ -1,0 +1,7 @@
+country:PAN	GNI per capita (current LCU)	low	1.0000
+country:VCT	GNI per capita (current LCU)	low	1.0000
+country:POL	GNI per capita (current LCU)	medium	1.0000
+country:BHS	GNI per capita (current LCU)	mediumLow	1.0000
+country:MUS	GNI per capita (current LCU)	mediumHigh	1.0000
+country:SVN	GNI per capita (current LCU)	mediumLow	1.0000
+country:FRA	GNI per capita (current LCU)	mediumLow	1.0000

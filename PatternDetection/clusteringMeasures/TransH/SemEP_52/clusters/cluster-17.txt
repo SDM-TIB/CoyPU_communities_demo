@@ -1,0 +1,3 @@
+country:NAM	GNI per capita (current LCU)	medium	1.0000
+country:MEX	GNI per capita (current LCU)	medium	1.0000
+country:GNQ	GNI per capita (current LCU)	high	1.0000

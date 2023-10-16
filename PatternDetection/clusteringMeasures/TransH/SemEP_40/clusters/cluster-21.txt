@@ -1,0 +1,6 @@
+country:GBR	Gross national expenditure (current US$)	high	1.0000
+country:DEU	Gross national expenditure (current US$)	high	1.0000
+country:FIN	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:NOR	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:BHS	Gross national expenditure (current US$)	low	1.0000
+country:IRL	Gross national expenditure (current US$)	mediumHigh	1.0000

@@ -1,0 +1,14 @@
+country:NOR	Industry (including construction) value added (% of GDP)	high	1.0000
+country:NOR	GDP (current US$)	high	1.0000
+country:NOR	GDP per capita (current LCU)	mediumHigh	1.0000
+country:NOR	Population growth (annual %)	mediumLow	1.0000
+country:MLT	Industry (including construction) value added (% of GDP)	low	1.0000
+country:MLT	GDP (current US$)	mediumLow	1.0000
+country:MLT	GDP per capita (current LCU)	mediumLow	1.0000
+country:MLT	Population growth (annual %)	mediumLow	1.0000
+country:MCO	Population growth (annual %)	medium	1.0000
+country:BHS	Industry (including construction) value added (% of GDP)	low	1.0000
+country:BHS	GDP (current US$)	mediumLow	1.0000
+country:BHS	GDP per capita (current LCU)	mediumLow	1.0000
+country:BHS	Population growth (annual %)	medium	1.0000
+country:IMN	Population growth (annual %)	mediumLow	1.0000

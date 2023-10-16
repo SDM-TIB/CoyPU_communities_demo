@@ -1,0 +1,7 @@
+country:SMR	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:MAC	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:NCL	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:FSM	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:ATG	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:BRN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:GRD	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000

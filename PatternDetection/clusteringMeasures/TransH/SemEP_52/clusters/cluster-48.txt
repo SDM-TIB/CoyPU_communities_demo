@@ -1,0 +1,4 @@
+country:NOR	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:CYM	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:VGB	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:IRL	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000

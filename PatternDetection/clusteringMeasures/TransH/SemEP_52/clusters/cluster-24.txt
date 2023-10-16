@@ -1,0 +1,5 @@
+country:HUN	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:BLZ	Gross national expenditure (current US$)	low	1.0000
+country:BMU	Gross national expenditure (current US$)	low	1.0000
+country:MUS	Gross national expenditure (current US$)	low	1.0000
+country:ISL	Gross national expenditure (current US$)	mediumLow	1.0000

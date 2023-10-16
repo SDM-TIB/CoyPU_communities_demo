@@ -1,0 +1,3 @@
+country:USA	GDP (current US$)	high	1.0000
+country:USA	GDP per capita (current LCU)	medium	1.0000
+country:USA	Population growth (annual %)	low	1.0000

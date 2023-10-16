@@ -1,0 +1,5 @@
+country:NAM	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:BTN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:MEX	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:PRI	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:GNQ	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000

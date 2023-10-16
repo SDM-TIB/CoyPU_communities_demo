@@ -1,0 +1,16 @@
+country:MAC	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:SMR	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:LCA	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:ARE	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:LVA	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:SAU	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:LTU	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:MYS	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:QAT	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:KWT	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:URY	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:LBR	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BTN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:BWA	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:FSM	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:BRN	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000

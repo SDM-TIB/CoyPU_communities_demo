@@ -1,0 +1,36 @@
+country:NPL	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LTU	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:LTU	GDP (current US$)	medium	1.0000
+country:LTU	GDP per capita (current LCU)	low	1.0000
+country:LTU	Population growth (annual %)	low	1.0000
+country:ARE	Population growth (annual %)	medium	1.0000
+country:TUR	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:TUR	GDP (current US$)	high	1.0000
+country:TUR	GDP per capita (current LCU)	medium	1.0000
+country:TUR	Population growth (annual %)	medium	1.0000
+country:NPL	GDP (current US$)	medium	1.0000
+country:NPL	GDP per capita (current LCU)	medium	1.0000
+country:NPL	Population growth (annual %)	mediumHigh	1.0000
+country:SOM	GDP (current US$)	low	1.0000
+country:SOM	GDP per capita (current LCU)	high	1.0000
+country:SOM	Population growth (annual %)	high	1.0000
+country:JPN	GDP (current US$)	high	1.0000
+country:JPN	GDP per capita (current LCU)	high	1.0000
+country:JPN	Population growth (annual %)	low	1.0000
+country:PAN	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:PAN	GDP (current US$)	medium	1.0000
+country:PAN	GDP per capita (current LCU)	low	1.0000
+country:PAN	Population growth (annual %)	mediumHigh	1.0000
+country:PRI	Population growth (annual %)	low	1.0000
+country:BGR	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:BGR	GDP (current US$)	mediumHigh	1.0000
+country:BGR	GDP per capita (current LCU)	low	1.0000
+country:BGR	Population growth (annual %)	low	1.0000
+country:DMA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:DMA	GDP (current US$)	low	1.0000
+country:DMA	GDP per capita (current LCU)	low	1.0000
+country:DMA	Population growth (annual %)	mediumLow	1.0000
+country:MNE	Industry (including construction) value added (% of GDP)	low	1.0000
+country:MNE	GDP (current US$)	low	1.0000
+country:MNE	GDP per capita (current LCU)	low	1.0000
+country:MNE	Population growth (annual %)	low	1.0000

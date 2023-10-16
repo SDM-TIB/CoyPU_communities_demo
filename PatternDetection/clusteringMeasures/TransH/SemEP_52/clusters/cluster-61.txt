@@ -1,0 +1,3 @@
+country:KNA	GNI per capita (current LCU)	mediumLow	1.0000
+country:IRL	GNI per capita (current LCU)	medium	1.0000
+country:TCA	GNI per capita (current LCU)	mediumLow	1.0000

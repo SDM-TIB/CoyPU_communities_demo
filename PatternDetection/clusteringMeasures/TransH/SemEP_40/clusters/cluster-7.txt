@@ -1,0 +1,15 @@
+country:MLT	GNI per capita (current LCU)	mediumLow	1.0000
+country:VCT	GNI per capita (current LCU)	low	1.0000
+country:WSM	GNI per capita (current LCU)	low	1.0000
+country:BLZ	GNI per capita (current LCU)	low	1.0000
+country:SYC	GNI per capita (current LCU)	medium	1.0000
+country:AUT	GNI per capita (current LCU)	mediumLow	1.0000
+country:BEL	GNI per capita (current LCU)	mediumLow	1.0000
+country:NOR	GNI per capita (current LCU)	mediumHigh	1.0000
+country:BMU	GNI per capita (current LCU)	medium	1.0000
+country:CYP	GNI per capita (current LCU)	mediumLow	1.0000
+country:CZE	GNI per capita (current LCU)	mediumHigh	1.0000
+country:SVN	GNI per capita (current LCU)	mediumLow	1.0000
+country:EST	GNI per capita (current LCU)	low	1.0000
+country:ISL	GNI per capita (current LCU)	high	1.0000
+country:BRB	GNI per capita (current LCU)	mediumLow	1.0000

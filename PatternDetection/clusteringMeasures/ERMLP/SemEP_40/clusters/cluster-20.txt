@@ -1,0 +1,3 @@
+country:FIN	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:HKG	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:NAM	Gross national expenditure (current US$)	low	1.0000

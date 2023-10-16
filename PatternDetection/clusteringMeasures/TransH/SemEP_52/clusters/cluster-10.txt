@@ -1,0 +1,12 @@
+country:MUS	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:MHL	GDP (current US$)	low	1.0000
+country:MHL	GDP per capita (current LCU)	low	1.0000
+country:MHL	Population growth (annual %)	medium	1.0000
+country:BMU	GDP (current US$)	low	1.0000
+country:BMU	GDP per capita (current LCU)	medium	1.0000
+country:BMU	Population growth (annual %)	low	1.0000
+country:HUN	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:MUS	GDP (current US$)	mediumLow	1.0000
+country:MUS	GDP per capita (current LCU)	mediumHigh	1.0000
+country:MUS	Population growth (annual %)	low	1.0000
+country:BLZ	Industry (including construction) value added (% of GDP)	low	1.0000

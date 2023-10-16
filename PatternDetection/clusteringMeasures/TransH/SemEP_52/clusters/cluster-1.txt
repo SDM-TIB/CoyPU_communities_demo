@@ -1,0 +1,16 @@
+country:FIN	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:FIN	GDP (current US$)	mediumHigh	1.0000
+country:FIN	GDP per capita (current LCU)	mediumLow	1.0000
+country:FIN	Population growth (annual %)	mediumLow	1.0000
+country:CYM	Population growth (annual %)	medium	1.0000
+country:LUX	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LUX	GDP (current US$)	mediumHigh	1.0000
+country:LUX	GDP per capita (current LCU)	medium	1.0000
+country:LUX	Population growth (annual %)	mediumHigh	1.0000
+country:VGB	Population growth (annual %)	mediumLow	1.0000
+country:LIE	Population growth (annual %)	mediumLow	1.0000
+country:IRL	Industry (including construction) value added (% of GDP)	high	1.0000
+country:IRL	GDP (current US$)	high	1.0000
+country:IRL	GDP per capita (current LCU)	medium	1.0000
+country:IRL	Population growth (annual %)	medium	1.0000
+country:ABW	Population growth (annual %)	mediumLow	1.0000

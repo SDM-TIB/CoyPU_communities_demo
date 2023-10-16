@@ -1,0 +1,5 @@
+country:FIN	GNI per capita (current LCU)	mediumLow	1.0000
+country:CHN	GNI per capita (current LCU)	medium	1.0000
+country:HKG	GNI per capita (current LCU)	mediumHigh	1.0000
+country:BRB	GNI per capita (current LCU)	mediumLow	1.0000
+country:MHL	GNI per capita (current LCU)	low	1.0000

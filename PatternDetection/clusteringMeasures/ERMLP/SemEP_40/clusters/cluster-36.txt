@@ -1,0 +1,9 @@
+country:CUW	Population growth (annual %)	low	1.0000
+country:FRO	Population growth (annual %)	mediumLow	1.0000
+country:PRT	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:PRT	GDP (current US$)	mediumHigh	1.0000
+country:PRT	GDP per capita (current LCU)	low	1.0000
+country:PRT	Population growth (annual %)	low	1.0000
+country:ISL	GDP (current US$)	medium	1.0000
+country:ISL	GDP per capita (current LCU)	high	1.0000
+country:ISL	Population growth (annual %)	mediumHigh	1.0000

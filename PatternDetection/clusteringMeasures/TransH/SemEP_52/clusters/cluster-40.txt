@@ -1,0 +1,3 @@
+country:BEL	Gross national expenditure (current US$)	high	1.0000
+country:AUT	Gross national expenditure (current US$)	high	1.0000
+country:CZE	Gross national expenditure (current US$)	mediumHigh	1.0000

@@ -1,0 +1,4 @@
+country:NAM	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:NAM	GDP (current US$)	mediumLow	1.0000
+country:NAM	GDP per capita (current LCU)	medium	1.0000
+country:NAM	Population growth (annual %)	mediumHigh	1.0000

@@ -1,0 +1,4 @@
+country:FRO	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:SVN	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:ABW	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:HUN	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000

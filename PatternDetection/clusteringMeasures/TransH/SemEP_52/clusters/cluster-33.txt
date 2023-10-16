@@ -1,0 +1,2 @@
+country:DEU	GNI per capita (current LCU)	mediumLow	1.0000
+country:ITA	GNI per capita (current LCU)	mediumLow	1.0000

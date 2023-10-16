@@ -1,0 +1,18 @@
+country:ITA	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ITA	GDP (current US$)	high	1.0000
+country:ITA	GDP per capita (current LCU)	mediumLow	1.0000
+country:ITA	Population growth (annual %)	low	1.0000
+country:HUN	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:HUN	GDP (current US$)	mediumHigh	1.0000
+country:HUN	GDP per capita (current LCU)	high	1.0000
+country:HUN	Population growth (annual %)	low	1.0000
+country:CHE	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:CHE	GDP (current US$)	high	1.0000
+country:CHE	GDP per capita (current LCU)	medium	1.0000
+country:CHE	Population growth (annual %)	medium	1.0000
+country:SGP	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:SGP	GDP per capita (current LCU)	medium	1.0000
+country:SGP	Population growth (annual %)	low	1.0000
+country:CZE	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:CZE	GDP per capita (current LCU)	mediumHigh	1.0000
+country:CZE	Population growth (annual %)	low	1.0000

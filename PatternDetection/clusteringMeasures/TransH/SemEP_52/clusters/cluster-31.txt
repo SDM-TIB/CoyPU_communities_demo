@@ -1,0 +1,5 @@
+country:BRB	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:CUW	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:CYP	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:SYC	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:VCT	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000

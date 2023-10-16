@@ -1,0 +1,5 @@
+country:SVN	GNI per capita (current LCU)	mediumLow	1.0000
+country:CYP	GNI per capita (current LCU)	mediumLow	1.0000
+country:VCT	GNI per capita (current LCU)	low	1.0000
+country:MLT	GNI per capita (current LCU)	mediumLow	1.0000
+country:SYC	GNI per capita (current LCU)	medium	1.0000

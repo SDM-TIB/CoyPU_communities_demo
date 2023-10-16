@@ -1,0 +1,10 @@
+country:FRA	Gross national expenditure (current US$)	high	1.0000
+country:AUS	Gross national expenditure (current US$)	high	1.0000
+country:CAN	Gross national expenditure (current US$)	high	1.0000
+country:POL	Gross national expenditure (current US$)	high	1.0000
+country:PRT	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:HKG	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:BGR	Gross national expenditure (current US$)	medium	1.0000
+country:SVK	Gross national expenditure (current US$)	medium	1.0000
+country:GRC	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:HRV	Gross national expenditure (current US$)	medium	1.0000

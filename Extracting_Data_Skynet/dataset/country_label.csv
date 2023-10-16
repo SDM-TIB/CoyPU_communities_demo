@@ -1,0 +1,217 @@
+country,label_country
+country:PAK,Pakistan
+country:ABW,Aruba
+country:AFG,Afghanistan
+country:AGO,Angola
+country:ALB,Albania
+country:AND,Andorra
+country:ARE,United Arab Emirates
+country:ARG,Argentina
+country:ARM,Armenia
+country:ASM,American Samoa
+country:ATG,Antigua and Barbuda
+country:AUS,Australia
+country:AUT,Austria
+country:AZE,Azerbaijan
+country:BDI,Burundi
+country:BEL,Belgium
+country:BEN,Benin
+country:BFA,Burkina Faso
+country:BGD,Bangladesh
+country:BGR,Bulgaria
+country:BHR,Bahrain
+country:BHS,"Bahamas, The"
+country:BIH,Bosnia and Herzegovina
+country:BLR,Belarus
+country:BLZ,Belize
+country:BMU,Bermuda
+country:BOL,Bolivia
+country:BRA,Brazil
+country:BRB,Barbados
+country:BRN,Brunei Darussalam
+country:BTN,Bhutan
+country:BWA,Botswana
+country:CAF,Central African Republic
+country:CAN,Canada
+country:CHE,Switzerland
+country:CHL,Chile
+country:CHN,China
+country:CIV,Côte d\'Ivoire
+country:CMR,Cameroon
+country:COD,"Congo, Dem. Rep."
+country:COG,"Congo, Rep."
+country:COL,Colombia
+country:COM,Comoros
+country:CPV,Cabo Verde
+country:CRI,Costa Rica
+country:CUB,Cuba
+country:CUW,Curaçao
+country:CYM,Cayman Islands
+country:CYP,Cyprus
+country:CZE,Czech Republic
+country:DEU,Germany
+country:DJI,Djibouti
+country:DMA,Dominica
+country:DNK,Denmark
+country:DOM,Dominican Republic
+country:DZA,Algeria
+country:ECU,Ecuador
+country:EGY,"Egypt, Arab Rep."
+country:ERI,Eritrea
+country:ESP,Spain
+country:EST,Estonia
+country:ETH,Ethiopia
+country:FIN,Finland
+country:FJI,Fiji
+country:FRA,France
+country:FRO,Faroe Islands
+country:FSM,"Micronesia, Fed. Sts."
+country:GAB,Gabon
+country:GBR,United Kingdom
+country:GEO,Georgia
+country:GHA,Ghana
+country:GIB,Gibraltar
+country:GIN,Guinea
+country:GMB,"Gambia, The"
+country:GNB,Guinea-Bissau
+country:GNQ,Equatorial Guinea
+country:GRC,Greece
+country:GRD,Grenada
+country:GRL,Greenland
+country:GTM,Guatemala
+country:GUM,Guam
+country:GUY,Guyana
+country:HKG,"Hong Kong SAR, China"
+country:HND,Honduras
+country:HRV,Croatia
+country:HTI,Haiti
+country:HUN,Hungary
+country:IDN,Indonesia
+country:IMN,Isle of Man
+country:IND,India
+country:IRL,Ireland
+country:IRN,"Iran, Islamic Rep."
+country:IRQ,Iraq
+country:ISL,Iceland
+country:ISR,Israel
+country:ITA,Italy
+country:JAM,Jamaica
+country:JOR,Jordan
+country:JPN,Japan
+country:KAZ,Kazakhstan
+country:KEN,Kenya
+country:KGZ,Kyrgyz Republic
+country:KHM,Cambodia
+country:KIR,Kiribati
+country:KNA,St. Kitts and Nevis
+country:KOR,"Korea, Rep."
+country:KWT,Kuwait
+country:LAO,Lao PDR
+country:LBN,Lebanon
+country:LBR,Liberia
+country:LBY,Libya
+country:LCA,St. Lucia
+country:LIE,Liechtenstein
+country:LKA,Sri Lanka
+country:LSO,Lesotho
+country:LTU,Lithuania
+country:LUX,Luxembourg
+country:LVA,Latvia
+country:MAC,"Macao SAR, China"
+country:MAF,St. Martin (French part)
+country:MAR,Morocco
+country:MCO,Monaco
+country:MDA,Moldova
+country:MDG,Madagascar
+country:MDV,Maldives
+country:MEX,Mexico
+country:MHL,Marshall Islands
+country:MKD,North Macedonia
+country:MLI,Mali
+country:MLT,Malta
+country:MMR,Myanmar
+country:MNE,Montenegro
+country:MNG,Mongolia
+country:MNP,Northern Mariana Islands
+country:MOZ,Mozambique
+country:MRT,Mauritania
+country:MUS,Mauritius
+country:MWI,Malawi
+country:MYS,Malaysia
+country:NAM,Namibia
+country:NCL,New Caledonia
+country:NER,Niger
+country:NGA,Nigeria
+country:NIC,Nicaragua
+country:NLD,Netherlands
+country:NOR,Norway
+country:NPL,Nepal
+country:NRU,Nauru
+country:NZL,New Zealand
+country:OMN,Oman
+country:PAN,Panama
+country:PER,Peru
+country:PHL,Philippines
+country:PLW,Palau
+country:PNG,Papua New Guinea
+country:POL,Poland
+country:PRI,Puerto Rico
+country:PRK,"Korea, Dem. People\'s Rep."
+country:PRT,Portugal
+country:PRY,Paraguay
+country:PSE,West Bank and Gaza
+country:PYF,French Polynesia
+country:QAT,Qatar
+country:ROU,Romania
+country:RUS,Russian Federation
+country:RWA,Rwanda
+country:SAU,Saudi Arabia
+country:SDN,Sudan
+country:SEN,Senegal
+country:SGP,Singapore
+country:SLB,Solomon Islands
+country:SLE,Sierra Leone
+country:SLV,El Salvador
+country:SMR,San Marino
+country:SOM,Somalia
+country:SRB,Serbia
+country:SSD,South Sudan
+country:STP,São Tomé and Principe
+country:SUR,Suriname
+country:SVK,Slovak Republic
+country:SVN,Slovenia
+country:SWE,Sweden
+country:SWZ,Eswatini
+country:SXM,Sint Maarten (Dutch part)
+country:SYC,Seychelles
+country:SYR,Syrian Arab Republic
+country:TCA,Turks and Caicos Islands
+country:TCD,Chad
+country:TGO,Togo
+country:THA,Thailand
+country:TJK,Tajikistan
+country:TKM,Turkmenistan
+country:TLS,Timor-Leste
+country:TON,Tonga
+country:TTO,Trinidad and Tobago
+country:TUN,Tunisia
+country:TUR,Türkiye
+country:TUV,Tuvalu
+country:TZA,Tanzania
+country:UGA,Uganda
+country:UKR,Ukraine
+country:URY,Uruguay
+country:USA,United States
+country:UZB,Uzbekistan
+country:VCT,St. Vincent and the Grenadines
+country:VEN,"Venezuela, RB"
+country:VGB,British Virgin Islands
+country:VIR,Virgin Islands (U.S.)
+country:VNM,Vietnam
+country:VUT,Vanuatu
+country:WSM,Samoa
+country:YEM,"Yemen, Rep."
+country:ZAF,South Africa
+country:ZMB,Zambia
+country:ZWE,Zimbabwe
+country:XKX,Kosovo

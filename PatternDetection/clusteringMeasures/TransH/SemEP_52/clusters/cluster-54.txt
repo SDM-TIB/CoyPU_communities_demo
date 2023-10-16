@@ -1,0 +1,17 @@
+country:BEL	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:BEL	GDP (current US$)	high	1.0000
+country:BEL	GDP per capita (current LCU)	mediumLow	1.0000
+country:BEL	Population growth (annual %)	mediumLow	1.0000
+country:AUT	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:AUT	GDP (current US$)	high	1.0000
+country:AUT	GDP per capita (current LCU)	mediumLow	1.0000
+country:AUT	Population growth (annual %)	mediumLow	1.0000
+country:CUW	Population growth (annual %)	low	1.0000
+country:EST	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:EST	GDP (current US$)	medium	1.0000
+country:EST	GDP per capita (current LCU)	mediumLow	1.0000
+country:EST	Population growth (annual %)	low	1.0000
+country:CZE	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:CZE	GDP (current US$)	mediumHigh	1.0000
+country:CZE	GDP per capita (current LCU)	mediumHigh	1.0000
+country:CZE	Population growth (annual %)	low	1.0000

@@ -1,0 +1,2 @@
+country:CUW	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:FRO	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000

@@ -1,0 +1,15 @@
+country:NOR	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:IMN	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:ESP	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:AUT	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BLZ	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:VGB	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:DNK	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:SWE	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:NLD	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BEL	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:ROU	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:CYP	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:KNA	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:EST	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:DEU	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000

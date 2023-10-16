@@ -1,0 +1,2 @@
+country:VIR	Population growth (annual %)	low	1.0000
+country:GRL	Population growth (annual %)	mediumLow	1.0000

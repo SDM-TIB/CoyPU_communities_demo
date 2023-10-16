@@ -1,0 +1,2 @@
+country:FIN	GNI per capita (current LCU)	mediumLow	1.0000
+country:AUT	GNI per capita (current LCU)	mediumLow	1.0000

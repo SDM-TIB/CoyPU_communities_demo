@@ -1,0 +1,4 @@
+country:GBR	Industry (including construction) value added (% of GDP)	low	1.0000
+country:GBR	GDP (current US$)	high	1.0000
+country:GBR	GDP per capita (current LCU)	mediumLow	1.0000
+country:GBR	Population growth (annual %)	mediumLow	1.0000

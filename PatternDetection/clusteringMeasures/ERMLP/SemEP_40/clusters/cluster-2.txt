@@ -1,0 +1,66 @@
+country:SMR	Population growth (annual %)	mediumLow	1.0000
+country:DOM	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:DOM	GDP (current US$)	mediumHigh	1.0000
+country:DOM	GDP per capita (current LCU)	mediumHigh	1.0000
+country:DOM	Population growth (annual %)	medium	1.0000
+country:CPV	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:CPV	GDP (current US$)	low	1.0000
+country:CPV	GDP per capita (current LCU)	mediumHigh	1.0000
+country:CPV	Population growth (annual %)	medium	1.0000
+country:TKM	Population growth (annual %)	mediumHigh	1.0000
+country:PYF	Population growth (annual %)	mediumLow	1.0000
+country:ATG	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ATG	GDP (current US$)	low	1.0000
+country:ATG	GDP per capita (current LCU)	mediumLow	1.0000
+country:ATG	Population growth (annual %)	medium	1.0000
+country:LVA	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:LVA	GDP (current US$)	medium	1.0000
+country:LVA	GDP per capita (current LCU)	low	1.0000
+country:LVA	Population growth (annual %)	low	1.0000
+country:NZL	GDP (current US$)	mediumHigh	1.0000
+country:NZL	GDP per capita (current LCU)	medium	1.0000
+country:NZL	Population growth (annual %)	mediumLow	1.0000
+country:DJI	GDP (current US$)	low	1.0000
+country:DJI	Population growth (annual %)	mediumHigh	1.0000
+country:OMN	Industry (including construction) value added (% of GDP)	high	1.0000
+country:OMN	GDP per capita (current LCU)	low	1.0000
+country:OMN	Population growth (annual %)	high	1.0000
+country:GNQ	GDP (current US$)	mediumLow	1.0000
+country:GNQ	GDP per capita (current LCU)	high	1.0000
+country:GNQ	Population growth (annual %)	high	1.0000
+country:MAC	GDP per capita (current LCU)	mediumHigh	1.0000
+country:MAC	Population growth (annual %)	mediumHigh	1.0000
+country:GAB	Industry (including construction) value added (% of GDP)	high	1.0000
+country:GAB	GDP per capita (current LCU)	high	1.0000
+country:GAB	Population growth (annual %)	high	1.0000
+country:BRN	Industry (including construction) value added (% of GDP)	high	1.0000
+country:BRN	GDP (current US$)	mediumLow	1.0000
+country:BRN	GDP per capita (current LCU)	mediumLow	1.0000
+country:BRN	Population growth (annual %)	medium	1.0000
+country:KWT	Population growth (annual %)	mediumHigh	1.0000
+country:LAO	Industry (including construction) value added (% of GDP)	high	1.0000
+country:LAO	GDP per capita (current LCU)	high	1.0000
+country:LAO	Population growth (annual %)	mediumHigh	1.0000
+country:KIR	Population growth (annual %)	mediumHigh	1.0000
+country:STP	Industry (including construction) value added (% of GDP)	low	1.0000
+country:STP	GDP per capita (current LCU)	mediumLow	1.0000
+country:STP	Population growth (annual %)	mediumHigh	1.0000
+country:CRI	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:CRI	GDP per capita (current LCU)	high	1.0000
+country:CRI	Population growth (annual %)	medium	1.0000
+country:LSO	GDP (current US$)	low	1.0000
+country:LSO	GDP per capita (current LCU)	low	1.0000
+country:LSO	Population growth (annual %)	medium	1.0000
+country:ASM	Population growth (annual %)	low	1.0000
+country:FSM	Industry (including construction) value added (% of GDP)	low	1.0000
+country:FSM	GDP per capita (current LCU)	low	1.0000
+country:FSM	Population growth (annual %)	medium	1.0000
+country:BHR	Industry (including construction) value added (% of GDP)	high	1.0000
+country:BHR	GDP per capita (current LCU)	low	1.0000
+country:BHR	Population growth (annual %)	high	1.0000
+country:TLS	GDP (current US$)	low	1.0000
+country:TLS	Population growth (annual %)	mediumHigh	1.0000
+country:SLE	GDP (current US$)	low	1.0000
+country:SLE	Population growth (annual %)	mediumHigh	1.0000
+country:NRU	GDP (current US$)	low	1.0000
+country:NRU	Population growth (annual %)	mediumLow	1.0000

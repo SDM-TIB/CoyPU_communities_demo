@@ -1,0 +1,22 @@
+country:VIR	Population growth (annual %)	low	1.0000
+country:AUT	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:AUT	GDP (current US$)	high	1.0000
+country:AUT	GDP per capita (current LCU)	mediumLow	1.0000
+country:AUT	Population growth (annual %)	mediumLow	1.0000
+country:GIB	Population growth (annual %)	low	1.0000
+country:DNK	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:DNK	GDP (current US$)	high	1.0000
+country:DNK	GDP per capita (current LCU)	mediumHigh	1.0000
+country:DNK	Population growth (annual %)	mediumLow	1.0000
+country:LUX	GDP (current US$)	mediumHigh	1.0000
+country:LIE	Population growth (annual %)	mediumLow	1.0000
+country:GRL	Population growth (annual %)	mediumLow	1.0000
+country:BHS	GDP (current US$)	mediumLow	1.0000
+country:ABW	Population growth (annual %)	mediumLow	1.0000
+country:FIN	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:FIN	GDP (current US$)	mediumHigh	1.0000
+country:FIN	GDP per capita (current LCU)	mediumLow	1.0000
+country:FIN	Population growth (annual %)	mediumLow	1.0000
+country:IRL	Industry (including construction) value added (% of GDP)	high	1.0000
+country:BMU	GDP (current US$)	low	1.0000
+country:BMU	Population growth (annual %)	low	1.0000

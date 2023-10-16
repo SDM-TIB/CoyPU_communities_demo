@@ -1,0 +1,23 @@
+country:IRL	Industry (including construction) value added (% of GDP)	high	1.0000
+country:IRL	GDP (current US$)	high	1.0000
+country:IRL	GDP per capita (current LCU)	medium	1.0000
+country:IRL	Population growth (annual %)	medium	1.0000
+country:POL	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:POL	GDP (current US$)	high	1.0000
+country:POL	GDP per capita (current LCU)	medium	1.0000
+country:POL	Population growth (annual %)	low	1.0000
+country:BMU	GDP (current US$)	low	1.0000
+country:BMU	GDP per capita (current LCU)	medium	1.0000
+country:BMU	Population growth (annual %)	low	1.0000
+country:LIE	Population growth (annual %)	mediumLow	1.0000
+country:TCA	Industry (including construction) value added (% of GDP)	low	1.0000
+country:TCA	GDP per capita (current LCU)	mediumLow	1.0000
+country:TCA	Population growth (annual %)	mediumHigh	1.0000
+country:VCT	GDP (current US$)	low	1.0000
+country:VCT	GDP per capita (current LCU)	low	1.0000
+country:VCT	Population growth (annual %)	mediumLow	1.0000
+country:SGP	GDP (current US$)	high	1.0000
+country:CZE	GDP (current US$)	mediumHigh	1.0000
+country:MLT	Industry (including construction) value added (% of GDP)	low	1.0000
+country:MLT	GDP per capita (current LCU)	mediumLow	1.0000
+country:MLT	Population growth (annual %)	mediumLow	1.0000

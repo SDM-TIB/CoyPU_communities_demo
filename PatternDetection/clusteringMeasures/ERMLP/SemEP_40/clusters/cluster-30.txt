@@ -1,0 +1,3 @@
+country:CAN	GNI per capita (current LCU)	medium	1.0000
+country:LTU	GNI per capita (current LCU)	low	1.0000
+country:LBR	GNI per capita (current LCU)	low	1.0000

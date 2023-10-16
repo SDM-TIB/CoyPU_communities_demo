@@ -1,0 +1,15 @@
+country:CAN	GDP (current US$)	high	1.0000
+country:CAN	GDP per capita (current LCU)	medium	1.0000
+country:CAN	Population growth (annual %)	mediumLow	1.0000
+country:CHN	Industry (including construction) value added (% of GDP)	high	1.0000
+country:CHN	GDP (current US$)	high	1.0000
+country:CHN	GDP per capita (current LCU)	medium	1.0000
+country:CHN	Population growth (annual %)	low	1.0000
+country:CHN	Investment in water and sanitation with private participation (current US$)	mediumHigh	1.0000
+country:CHN	Public private partnerships investment in water and sanitation (current US$)	mediumHigh	1.0000
+country:LBR	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LBR	GDP (current US$)	low	1.0000
+country:LBR	GDP per capita (current LCU)	low	1.0000
+country:LBR	Population growth (annual %)	high	1.0000
+country:HKG	GDP per capita (current LCU)	mediumHigh	1.0000
+country:HKG	Population growth (annual %)	low	1.0000

@@ -1,0 +1,5 @@
+country:ESP	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:ITA	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:NLD	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:DEU	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:SWE	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000

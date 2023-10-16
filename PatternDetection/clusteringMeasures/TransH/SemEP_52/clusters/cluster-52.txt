@@ -1,0 +1,2 @@
+country:GBR	GNI per capita (current LCU)	mediumLow	1.0000
+country:EST	GNI per capita (current LCU)	low	1.0000

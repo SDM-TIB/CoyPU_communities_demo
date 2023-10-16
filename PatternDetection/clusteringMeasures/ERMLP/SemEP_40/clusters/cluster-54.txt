@@ -1,0 +1,2 @@
+country:SVK	GNI per capita (current LCU)	low	1.0000
+country:AUS	GNI per capita (current LCU)	medium	1.0000

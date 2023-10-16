@@ -1,0 +1,9 @@
+country:VIR	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:AUT	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:DNK	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:LUX	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:LIE	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:BHS	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:FIN	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:IRL	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BMU	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000

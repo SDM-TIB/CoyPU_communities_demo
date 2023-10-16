@@ -1,0 +1,5 @@
+country:GBR	GNI per capita (current LCU)	mediumLow	1.0000
+country:NAM	GNI per capita (current LCU)	medium	1.0000
+country:DEU	GNI per capita (current LCU)	mediumLow	1.0000
+country:IRL	GNI per capita (current LCU)	medium	1.0000
+country:BHS	GNI per capita (current LCU)	mediumLow	1.0000

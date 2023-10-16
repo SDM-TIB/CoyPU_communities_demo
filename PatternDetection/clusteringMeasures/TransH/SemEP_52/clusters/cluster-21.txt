@@ -1,0 +1,3 @@
+country:NAM	Gross national expenditure (current US$)	low	1.0000
+country:MEX	Gross national expenditure (current US$)	high	1.0000
+country:GNQ	Gross national expenditure (current US$)	low	1.0000

@@ -1,0 +1,6 @@
+country:BEL	GNI per capita (current LCU)	mediumLow	1.0000
+country:CHE	GNI per capita (current LCU)	medium	1.0000
+country:CHN	GNI per capita (current LCU)	medium	1.0000
+country:CZE	GNI per capita (current LCU)	mediumHigh	1.0000
+country:ROU	GNI per capita (current LCU)	mediumLow	1.0000
+country:HKG	GNI per capita (current LCU)	mediumHigh	1.0000

@@ -1,0 +1,13 @@
+country:QAT	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:PYF	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:ATG	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:LVA	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:LBR	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:NZL	Diabetes prevalence (% of population ages 20 to 79)	mediumLow	1.0000
+country:DMA	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:KWT	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:PRI	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:ISR	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:FSM	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:CRI	Diabetes prevalence (% of population ages 20 to 79)	medium	1.0000
+country:BHR	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000

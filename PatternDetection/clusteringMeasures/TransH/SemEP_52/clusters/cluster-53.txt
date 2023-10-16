@@ -1,0 +1,4 @@
+country:CYP	Gross national expenditure (current US$)	mediumLow	1.0000
+country:SVN	Gross national expenditure (current US$)	medium	1.0000
+country:SYC	Gross national expenditure (current US$)	low	1.0000
+country:SGP	Gross national expenditure (current US$)	mediumHigh	1.0000

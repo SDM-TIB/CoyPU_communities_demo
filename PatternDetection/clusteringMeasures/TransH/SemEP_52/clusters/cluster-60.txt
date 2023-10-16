@@ -1,0 +1,3 @@
+country:NOR	GNI per capita (current LCU)	mediumHigh	1.0000
+country:VUT	GNI per capita (current LCU)	mediumHigh	1.0000
+country:BHS	GNI per capita (current LCU)	mediumLow	1.0000

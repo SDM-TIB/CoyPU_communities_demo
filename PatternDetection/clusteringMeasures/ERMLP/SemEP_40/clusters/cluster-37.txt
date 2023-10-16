@@ -1,0 +1,8 @@
+country:AUS	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:SVK	Industry (including construction) value added (% of GDP)	mediumHigh	1.0000
+country:SVK	GDP (current US$)	mediumHigh	1.0000
+country:AUS	GDP (current US$)	high	1.0000
+country:SVK	GDP per capita (current LCU)	low	1.0000
+country:AUS	GDP per capita (current LCU)	medium	1.0000
+country:SVK	Population growth (annual %)	low	1.0000
+country:AUS	Population growth (annual %)	mediumLow	1.0000

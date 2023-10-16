@@ -1,0 +1,5 @@
+country:ITA	GNI per capita (current LCU)	mediumLow	1.0000
+country:PRT	GNI per capita (current LCU)	low	1.0000
+country:CHE	GNI per capita (current LCU)	medium	1.0000
+country:SGP	GNI per capita (current LCU)	medium	1.0000
+country:CZE	GNI per capita (current LCU)	mediumHigh	1.0000

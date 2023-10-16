@@ -1,0 +1,4 @@
+country:DEU	Industry (including construction) value added (% of GDP)	medium	1.0000
+country:DEU	GDP (current US$)	high	1.0000
+country:DEU	GDP per capita (current LCU)	mediumLow	1.0000
+country:DEU	Population growth (annual %)	low	1.0000

@@ -1,0 +1,5 @@
+country:LUX	Industry (including construction) value added (% of GDP)	low	1.0000
+country:LUX	GDP (current US$)	mediumHigh	1.0000
+country:LUX	GDP per capita (current LCU)	medium	1.0000
+country:LUX	Population growth (annual %)	mediumHigh	1.0000
+country:CYM	Population growth (annual %)	medium	1.0000

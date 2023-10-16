@@ -1,0 +1,484 @@
+Cluster	15		
+country:MCO	low	Industry (including construction) value added (% of GDP)	0.2747
+country:MCO	low	GDP (current US$)	0.2747
+country:MCO	low	GDP per capita (current LCU)	0.2747
+country:VGB	low	Industry (including construction) value added (% of GDP)	0.2747
+country:VGB	low	GDP (current US$)	0.2747
+country:VGB	low	GDP per capita (current LCU)	0.2747
+country:IMN	low	Industry (including construction) value added (% of GDP)	0.2747
+country:IMN	low	GDP (current US$)	0.2747
+country:IMN	low	GDP per capita (current LCU)	0.2747
+country:CYM	low	Industry (including construction) value added (% of GDP)	0.2747
+country:CYM	low	GDP (current US$)	0.2747
+country:CYM	low	GDP per capita (current LCU)	0.2747
+Cluster	16
+country:ABW	low	Industry (including construction) value added (% of GDP)	0.1833
+country:ABW	low	GDP (current US$)	0.1833
+country:ABW	low	GDP per capita (current LCU)	0.1833
+country:GIB	low	Industry (including construction) value added (% of GDP)	0.1833
+country:GIB	low	GDP (current US$)	0.1833
+country:GIB	low	GDP per capita (current LCU)	0.1833
+country:GRL	low	Industry (including construction) value added (% of GDP)	0.1833
+country:GRL	low	GDP (current US$)	0.1833
+country:GRL	low	GDP per capita (current LCU)	0.1833
+country:BMU	low	Industry (including construction) value added (% of GDP)	0.1833
+country:VIR	low	Industry (including construction) value added (% of GDP)	0.1833
+country:VIR	low	GDP (current US$)	0.1833
+country:VIR	low	GDP per capita (current LCU)	0.1833
+country:LIE	low	Industry (including construction) value added (% of GDP)	0.1833
+country:LIE	low	GDP (current US$)	0.1833
+country:LIE	low	GDP per capita (current LCU)	0.1833
+Cluster	18
+country:FRA	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:FRA	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:SXM	low	Industry (including construction) value added (% of GDP)	0.1705
+country:SXM	low	GDP (current US$)	0.1705
+country:SXM	low	GDP per capita (current LCU)	0.1705
+country:SXM	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:SXM	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:AND	low	Industry (including construction) value added (% of GDP)	0.1705
+country:AND	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:AND	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:FSM	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:FSM	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:ATG	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:ATG	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:AUS	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:AUS	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:GRC	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:GRC	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:GRD	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:GRD	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:NAM	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:NAM	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:BGR	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:BGR	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:HKG	low	Industry (including construction) value added (% of GDP)	0.1705
+country:HKG	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:HKG	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:USA	low	Industry (including construction) value added (% of GDP)	0.1705
+country:USA	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:USA	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:HRV	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:HRV	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:NZL	low	Industry (including construction) value added (% of GDP)	0.1705
+country:NZL	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:NZL	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:BTN	low	Industry (including construction) value added (% of GDP)	0.1705
+country:BTN	low	GDP (current US$)	0.1705
+country:BTN	low	GDP per capita (current LCU)	0.1705
+country:BTN	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:BTN	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:PAN	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:PAN	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:BWA	low	Industry (including construction) value added (% of GDP)	0.1705
+country:CAN	low	Industry (including construction) value added (% of GDP)	0.1705
+country:CAN	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:CAN	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:CHE	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:CHE	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:BRN	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:BRN	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:JPN	low	Industry (including construction) value added (% of GDP)	0.1705
+country:JPN	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:JPN	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:PYF	low	Industry (including construction) value added (% of GDP)	0.1705
+country:PYF	low	GDP (current US$)	0.1705
+country:PYF	low	GDP per capita (current LCU)	0.1705
+country:PYF	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:PYF	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:ROU	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:ROU	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:LBR	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:LBR	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+country:SVK	low	Investment in water and sanitation with private participation (current US$)	0.1705
+country:SVK	low	Public private partnerships investment in water and sanitation (current US$)	0.1705
+Cluster	20
+country:AFG	low	Industry (including construction) value added (% of GDP)	0.0485
+country:AFG	low	GDP (current US$)	0.0485
+country:AFG	low	GDP per capita (current LCU)	0.0485
+country:AFG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:AFG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:AGO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:AGO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ALB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ALB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ARG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ARG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ARM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ARM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ASM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:ASM	low	GDP (current US$)	0.0485
+country:ASM	low	GDP per capita (current LCU)	0.0485
+country:ASM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ASM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:AZE	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:AZE	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BDI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BDI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BEN	low	Industry (including construction) value added (% of GDP)	0.0485
+country:BEN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BEN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BFA	low	Industry (including construction) value added (% of GDP)	0.0485
+country:BFA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BFA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BGD	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BGD	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BHR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BHR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BIH	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BIH	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BLR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BLR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:BOL	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:BOL	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CAF	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CAF	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CHL	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CHL	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CIV	low	Industry (including construction) value added (% of GDP)	0.0485
+country:CIV	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CIV	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CMR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CMR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:COD	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:COD	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:COG	low	Industry (including construction) value added (% of GDP)	0.0485
+country:COG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:COG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:COL	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:COL	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:COM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:COM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CPV	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CPV	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CRI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CRI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:CUB	low	Industry (including construction) value added (% of GDP)	0.0485
+country:CUB	low	GDP (current US$)	0.0485
+country:CUB	low	GDP per capita (current LCU)	0.0485
+country:CUB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:CUB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:DJI	low	Industry (including construction) value added (% of GDP)	0.0485
+country:DJI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:DJI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:DOM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:DOM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:DZA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:DZA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ECU	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ECU	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ETH	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ETH	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:FJI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:FJI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GAB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GAB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GEO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GEO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GHA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GHA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GIN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GIN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GMB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GMB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GNB	low	Industry (including construction) value added (% of GDP)	0.0485
+country:GNB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GNB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GNQ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GNQ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GTM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GTM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GUM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:GUM	low	GDP (current US$)	0.0485
+country:GUM	low	GDP per capita (current LCU)	0.0485
+country:GUM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GUM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:GUY	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:GUY	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:HND	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:HND	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:HTI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:HTI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:IDN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:IDN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:IRN	low	Industry (including construction) value added (% of GDP)	0.0485
+country:IRN	low	GDP (current US$)	0.0485
+country:IRN	low	GDP per capita (current LCU)	0.0485
+country:IRN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:IRN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:IRQ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:IRQ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ISR	low	Industry (including construction) value added (% of GDP)	0.0485
+country:ISR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ISR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:JAM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:JAM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:JOR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:JOR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KAZ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KAZ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KEN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KEN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KGZ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KGZ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KHM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KHM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KIR	low	Industry (including construction) value added (% of GDP)	0.0485
+country:KIR	low	GDP (current US$)	0.0485
+country:KIR	low	GDP per capita (current LCU)	0.0485
+country:KIR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KIR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:KOR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:KOR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:LAO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:LAO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:LBN	low	Industry (including construction) value added (% of GDP)	0.0485
+country:LBN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:LBN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:LBY	low	Industry (including construction) value added (% of GDP)	0.0485
+country:LBY	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:LBY	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:LSO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:LSO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MAF	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MAF	low	GDP (current US$)	0.0485
+country:MAF	low	GDP per capita (current LCU)	0.0485
+country:MAF	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MAF	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MAR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MAR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MDA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MDA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MDG	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MDG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MDG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MDV	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MDV	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MDV	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MEX	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MEX	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MKD	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MKD	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MLI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MLI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MMR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MMR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MNE	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MNE	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MNG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MNG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MNP	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MNP	low	GDP (current US$)	0.0485
+country:MNP	low	GDP per capita (current LCU)	0.0485
+country:MNP	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MNP	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MOZ	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MOZ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MOZ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MRT	low	Industry (including construction) value added (% of GDP)	0.0485
+country:MRT	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MRT	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:MWI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:MWI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NCL	low	Industry (including construction) value added (% of GDP)	0.0485
+country:NCL	low	GDP (current US$)	0.0485
+country:NCL	low	GDP per capita (current LCU)	0.0485
+country:NCL	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NCL	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NER	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NER	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NGA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NGA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NIC	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NIC	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NPL	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NPL	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:NRU	low	Industry (including construction) value added (% of GDP)	0.0485
+country:NRU	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:NRU	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:OMN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:OMN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PAK	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PAK	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PER	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PER	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PER	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PLW	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PLW	low	GDP (current US$)	0.0485
+country:PLW	low	GDP per capita (current LCU)	0.0485
+country:PLW	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PLW	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PNG	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PNG	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PNG	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PRI	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PRI	low	GDP (current US$)	0.0485
+country:PRI	low	GDP per capita (current LCU)	0.0485
+country:PRI	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PRI	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PRK	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PRK	low	GDP (current US$)	0.0485
+country:PRK	low	GDP per capita (current LCU)	0.0485
+country:PRK	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PRK	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PRY	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PRY	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:PSE	low	Industry (including construction) value added (% of GDP)	0.0485
+country:PSE	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:PSE	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:QAT	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:QAT	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:RUS	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:RUS	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:RWA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:RWA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SDN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SDN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SEN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SEN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SLB	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SLB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SLB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SLE	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SLE	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SLE	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SLV	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SLV	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SOM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SOM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SOM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SRB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SRB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SSD	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SSD	low	GDP (current US$)	0.0485
+country:SSD	low	GDP per capita (current LCU)	0.0485
+country:SSD	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SSD	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:STP	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:STP	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SUR	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SUR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SUR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SWZ	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SWZ	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:SYR	low	Industry (including construction) value added (% of GDP)	0.0485
+country:SYR	low	GDP (current US$)	0.0485
+country:SYR	low	GDP per capita (current LCU)	0.0485
+country:SYR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:SYR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TCD	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TCD	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TGO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TGO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:THA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:THA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TJK	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TJK	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TJK	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TKM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TKM	low	GDP (current US$)	0.0485
+country:TKM	low	GDP per capita (current LCU)	0.0485
+country:TKM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TKM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TLS	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TLS	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TLS	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TON	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TON	low	GDP (current US$)	0.0485
+country:TON	low	GDP per capita (current LCU)	0.0485
+country:TON	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TON	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TTO	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TTO	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TTO	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TUN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TUN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TUR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TUR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TUV	low	Industry (including construction) value added (% of GDP)	0.0485
+country:TUV	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TUV	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:TZA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:TZA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:UGA	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:UGA	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:UKR	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:UKR	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:UZB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:UZB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:VEN	low	Industry (including construction) value added (% of GDP)	0.0485
+country:VEN	low	GDP (current US$)	0.0485
+country:VEN	low	GDP per capita (current LCU)	0.0485
+country:VEN	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:VEN	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:VNM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:VNM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:VNM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:XKX	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:XKX	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:YEM	low	Industry (including construction) value added (% of GDP)	0.0485
+country:YEM	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:YEM	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ZAF	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ZAF	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ZMB	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ZMB	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+country:ZWE	low	Industry (including construction) value added (% of GDP)	0.0485
+country:ZWE	low	Investment in water and sanitation with private participation (current US$)	0.0485
+country:ZWE	low	Public private partnerships investment in water and sanitation (current US$)	0.0485
+Cluster	21
+country:AND	low	Industry (including construction) value added (% of GDP)	0.1542
+country:AND	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:AND	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:ARE	low	Industry (including construction) value added (% of GDP)	0.1542
+country:ARE	low	GDP (current US$)	0.1542
+country:ARE	low	GDP per capita (current LCU)	0.1542
+country:ARE	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:ARE	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:MYS	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:MYS	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:URY	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:URY	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:HRV	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:HRV	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:BRN	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:BRN	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:BWA	low	Industry (including construction) value added (% of GDP)	0.1542
+country:QAT	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:QAT	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:KWT	low	Industry (including construction) value added (% of GDP)	0.1542
+country:KWT	low	GDP (current US$)	0.1542
+country:KWT	low	GDP per capita (current LCU)	0.1542
+country:KWT	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:KWT	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:SAU	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:SAU	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:LBR	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:LBR	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:LCA	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:LCA	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:SMR	low	Industry (including construction) value added (% of GDP)	0.1542
+country:SMR	low	GDP (current US$)	0.1542
+country:SMR	low	GDP per capita (current LCU)	0.1542
+country:SMR	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:SMR	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:LTU	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:LTU	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:LVA	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:LVA	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+country:MAC	low	Industry (including construction) value added (% of GDP)	0.1542
+country:MAC	low	Investment in water and sanitation with private participation (current US$)	0.1542
+country:MAC	low	Public private partnerships investment in water and sanitation (current US$)	0.1542
+Cluster	24
+country:FRO	low	Industry (including construction) value added (% of GDP)	0.2196
+country:FRO	low	GDP (current US$)	0.2196
+country:FRO	low	GDP per capita (current LCU)	0.2196
+country:MHL	low	Industry (including construction) value added (% of GDP)	0.2196
+country:BMU	low	Industry (including construction) value added (% of GDP)	0.2196
+country:BRB	low	Industry (including construction) value added (% of GDP)	0.2196
+country:VUT	low	Industry (including construction) value added (% of GDP)	0.2196
+country:ISL	low	Industry (including construction) value added (% of GDP)	0.2196
+country:CUW	low	Industry (including construction) value added (% of GDP)	0.2196
+country:CUW	low	GDP (current US$)	0.2196
+country:CUW	low	GDP per capita (current LCU)	0.2196

@@ -1,0 +1,4 @@
+country:PYF	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:VUT	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:DMA	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000
+country:LCA	Diabetes prevalence (% of population ages 20 to 79)	mediumHigh	1.0000

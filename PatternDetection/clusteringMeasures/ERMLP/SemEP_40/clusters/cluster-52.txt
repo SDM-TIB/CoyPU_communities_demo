@@ -1,0 +1,17 @@
+country:GRD	GNI per capita (current LCU)	mediumLow	1.0000
+country:NAM	GNI per capita (current LCU)	medium	1.0000
+country:MDA	GNI per capita (current LCU)	medium	1.0000
+country:DJI	GNI per capita (current LCU)	mediumHigh	1.0000
+country:MKD	GNI per capita (current LCU)	mediumHigh	1.0000
+country:GNB	GNI per capita (current LCU)	mediumHigh	1.0000
+country:ALB	GNI per capita (current LCU)	mediumHigh	1.0000
+country:MWI	GNI per capita (current LCU)	mediumHigh	1.0000
+country:BIH	GNI per capita (current LCU)	low	1.0000
+country:GMB	GNI per capita (current LCU)	mediumLow	1.0000
+country:COM	GNI per capita (current LCU)	mediumHigh	1.0000
+country:TJK	GNI per capita (current LCU)	low	1.0000
+country:LSO	GNI per capita (current LCU)	low	1.0000
+country:COG	GNI per capita (current LCU)	high	1.0000
+country:GUY	GNI per capita (current LCU)	high	1.0000
+country:ZWE	GNI per capita (current LCU)	medium	1.0000
+country:SLE	GNI per capita (current LCU)	high	1.0000

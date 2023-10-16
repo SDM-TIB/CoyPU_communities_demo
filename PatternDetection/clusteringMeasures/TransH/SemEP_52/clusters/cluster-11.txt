@@ -1,0 +1,20 @@
+country:ESP	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ESP	GDP (current US$)	high	1.0000
+country:ESP	GDP per capita (current LCU)	mediumLow	1.0000
+country:ESP	Population growth (annual %)	low	1.0000
+country:DNK	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:DNK	GDP (current US$)	high	1.0000
+country:DNK	GDP per capita (current LCU)	mediumHigh	1.0000
+country:DNK	Population growth (annual %)	mediumLow	1.0000
+country:SWE	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:SWE	GDP (current US$)	high	1.0000
+country:SWE	GDP per capita (current LCU)	mediumHigh	1.0000
+country:SWE	Population growth (annual %)	mediumLow	1.0000
+country:ITA	Industry (including construction) value added (% of GDP)	mediumLow	1.0000
+country:ITA	GDP (current US$)	high	1.0000
+country:ITA	GDP per capita (current LCU)	mediumLow	1.0000
+country:ITA	Population growth (annual %)	low	1.0000
+country:NLD	Industry (including construction) value added (% of GDP)	low	1.0000
+country:NLD	GDP (current US$)	high	1.0000
+country:NLD	GDP per capita (current LCU)	mediumLow	1.0000
+country:NLD	Population growth (annual %)	mediumLow	1.0000

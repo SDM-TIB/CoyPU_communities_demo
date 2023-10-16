@@ -1,0 +1,2 @@
+country:FIN	Gross national expenditure (current US$)	mediumHigh	1.0000
+country:LUX	Gross national expenditure (current US$)	medium	1.0000

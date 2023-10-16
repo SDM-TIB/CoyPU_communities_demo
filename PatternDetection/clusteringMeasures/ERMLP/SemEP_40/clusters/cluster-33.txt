@@ -1,0 +1,4 @@
+country:VIR	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:ABW	Diabetes prevalence (% of population ages 20 to 79)	low	1.0000
+country:BMU	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
+country:MHL	Diabetes prevalence (% of population ages 20 to 79)	high	1.0000
