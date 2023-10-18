@@ -1,0 +1,10 @@
+country:CYM
+country:DEU
+country:DNK
+country:ESP
+country:SWE
+country:FIN
+country:VGB
+country:LUX
+country:ITA
+country:NLD

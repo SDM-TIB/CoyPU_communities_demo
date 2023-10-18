@@ -1,0 +1,29 @@
+
+Starting the application
+Cluster files folder: TransH/METIS_47/clusters/
+Number of cluster: 3
+Number of edges: 216
+Average value of the matrix 0.580
+Weight M 0.580
+Intra edge weight theta 0.900
+Similarity matrix loaded!
+Computing measures .......
+
+************************************
+Clustering measures
+************************************
+ClusterFilename	Conductance
+cluster-0	0.570293703502
+cluster-1	0.523333022508
+cluster-2	0.591382225296
+************************************
+Max conductance:	0.591382225296
+Min conductance:	0.523333022508
+Average conductance:	0.561669650435
+Coverage:	0.440604118932
+Modularity:	0.080200330375
+Total cut:	7509.128689999990
+Performance:	0.588314072905
+************************************
+
+Total time 0.017 secs
