@@ -32,14 +32,15 @@ def adding_prediction(name, cls, prediction):
                                    prediction['weight'][ind]]
     return cls
 
-def load_cluster(path_model_th_cls, name, prediction):
+def load_cluster(path_model_th_cls, name, prediction, replacement_map):
     cls = pd.read_csv(path_model_th_cls + name, delimiter="\t", header=None)
     cls.columns = ['Country', 'Indicator', 'category', 'Cost']
     cls = adding_prediction(name, cls, prediction)
+    cls['Country'].replace(replacement_map, inplace=True)
     return cls
 
-def create_json_to_cytoscape(path_model_th_cls, name, prediction): # entity_type
-    rdf_graph = load_cluster(path_model_th_cls, name, prediction)
+def create_json_to_cytoscape(path_model_th_cls, name, prediction, replacement_map): # entity_type
+    rdf_graph = load_cluster(path_model_th_cls, name, prediction, replacement_map)
     graph_json = dict()
     graph_json['nodes'] = []
     graph_json['edges'] = []
@@ -88,8 +89,8 @@ def create_json_to_cytoscape(path_model_th_cls, name, prediction): # entity_type
 
     return graph_json
 
-def create_graph_cytoscape(path_model_th_cls, name, prediction):
-    middle_vertex = create_json_to_cytoscape(path_model_th_cls, name, prediction)
+def create_graph_cytoscape(path_model_th_cls, name, prediction, replacement_map):
+    middle_vertex = create_json_to_cytoscape(path_model_th_cls, name, prediction, replacement_map)
     # load a style dictionary
     with open("styles_prediction.json") as fi:
         s = json.load(fi)
@@ -98,7 +99,7 @@ def create_graph_cytoscape(path_model_th_cls, name, prediction):
     cytoscapeobj.graph.add_graph_from_json(middle_vertex, directed=True, multiple_edges=True)  # , directed=True, input_data['elements']
     
     cytoscapeobj.set_style(s)
-    cytoscapeobj.set_layout(name='dagre', animate=True, nodeSpacing = 5)  # concentric,  breadthfirst, fcose, dagre, grid
+    cytoscapeobj.set_layout(name='breadthfirst', animate=True, nodeSpacing = 1)  # concentric,  breadthfirst, fcose, dagre, grid
     return cytoscapeobj
 
 
