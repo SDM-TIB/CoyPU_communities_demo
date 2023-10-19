@@ -3,11 +3,9 @@ country:NOR	Gross national expenditure (current US$)	mediumHigh	1.0000
 country:ESP	Gross national expenditure (current US$)	high	1.0000
 country:AUT	Gross national expenditure (current US$)	high	1.0000
 country:DNK	Gross national expenditure (current US$)	mediumHigh	1.0000
-country:BLZ	Gross national expenditure (current US$)	low	1.0000
 country:SWE	Gross national expenditure (current US$)	high	1.0000
 country:ROU	Gross national expenditure (current US$)	mediumHigh	1.0000
 country:NLD	Gross national expenditure (current US$)	high	1.0000
 country:CYP	Gross national expenditure (current US$)	mediumLow	1.0000
-country:EST	Gross national expenditure (current US$)	mediumLow	1.0000
 country:BEL	Gross national expenditure (current US$)	high	1.0000
 country:DEU	Gross national expenditure (current US$)	high	1.0000
